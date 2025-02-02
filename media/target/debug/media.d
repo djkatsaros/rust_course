@@ -1,0 +1,1 @@
+/Users/deankatsaros/Desktop/rust_course/media/target/debug/media: /Users/deankatsaros/Desktop/rust_course/media/src/content/catalog.rs /Users/deankatsaros/Desktop/rust_course/media/src/content/media.rs /Users/deankatsaros/Desktop/rust_course/media/src/content/mod.rs /Users/deankatsaros/Desktop/rust_course/media/src/main.rs
