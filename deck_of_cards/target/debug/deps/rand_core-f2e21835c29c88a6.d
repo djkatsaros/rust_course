@@ -1,0 +1,11 @@
+/Users/deankatsaros/Desktop/rust_course/deck_of_cards/target/debug/deps/librand_core-f2e21835c29c88a6.rmeta: /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/lib.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/block.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/impls.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/le.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/os.rs
+
+/Users/deankatsaros/Desktop/rust_course/deck_of_cards/target/debug/deps/librand_core-f2e21835c29c88a6.rlib: /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/lib.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/block.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/impls.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/le.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/os.rs
+
+/Users/deankatsaros/Desktop/rust_course/deck_of_cards/target/debug/deps/rand_core-f2e21835c29c88a6.d: /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/lib.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/block.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/impls.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/le.rs /Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/os.rs
+
+/Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/lib.rs:
+/Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/block.rs:
+/Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/impls.rs:
+/Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/le.rs:
+/Users/deankatsaros/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.0/src/os.rs:
