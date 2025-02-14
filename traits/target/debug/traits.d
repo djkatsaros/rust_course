@@ -1,0 +1,1 @@
+/Users/deankatsaros/Desktop/rust_course/traits/target/debug/traits: /Users/deankatsaros/Desktop/rust_course/traits/src/basket.rs /Users/deankatsaros/Desktop/rust_course/traits/src/container.rs /Users/deankatsaros/Desktop/rust_course/traits/src/main.rs /Users/deankatsaros/Desktop/rust_course/traits/src/stack.rs
